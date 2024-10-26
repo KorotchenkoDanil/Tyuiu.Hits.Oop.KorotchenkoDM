@@ -5,3 +5,10 @@ C:\Users\ДАНИЛ\source\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintRevie
 C:\Users\ДАНИЛ\source\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\obj\Debug\SprintReview1.exe
 C:\Users\ДАНИЛ\source\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\obj\Debug\SprintReview1.pdb
 C:\Users\ДАНИЛ\source\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\obj\Debug\SprintReview1.csproj.AssemblyReference.cache
+C:\Users\ДАНИЛ\source\repos\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\bin\Debug\SprintReview1.exe.config
+C:\Users\ДАНИЛ\source\repos\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\bin\Debug\SprintReview1.exe
+C:\Users\ДАНИЛ\source\repos\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\bin\Debug\SprintReview1.pdb
+C:\Users\ДАНИЛ\source\repos\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\obj\Debug\SprintReview1.csproj.AssemblyReference.cache
+C:\Users\ДАНИЛ\source\repos\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\obj\Debug\SprintReview1.csproj.CoreCompileInputs.cache
+C:\Users\ДАНИЛ\source\repos\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\obj\Debug\SprintReview1.exe
+C:\Users\ДАНИЛ\source\repos\Tyuiu.Hits.Oop.KorotchenkoDM\SprintReview\SprintReview1\obj\Debug\SprintReview1.pdb

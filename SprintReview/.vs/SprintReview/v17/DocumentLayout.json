@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SprintReview0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8CFD85F-CA49-4C00-88DE-4DE3922387B5}|SprintReview2\\SprintReview2.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\source\\repos\\tyuiu.hits.oop.korotchenkodm\\sprintreview\\sprintreview2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CFD85F-CA49-4C00-88DE-4DE3922387B5}|SprintReview2\\SprintReview2.csproj|solutionrelative:sprintreview2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C673D2-BE8D-4CB0-98E7-F6D93BA4D1D9}|SprintReview1\\SprintReview1.csproj|C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\sprintreview1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C673D2-BE8D-4CB0-98E7-F6D93BA4D1D9}|SprintReview1\\SprintReview1.csproj|solutionrelative:sprintreview1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C6DE39-8010-4385-9E37-063789219BE9}|SprintReview0\\SprintReview0.csproj|C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C6DE39-8010-4385-9E37-063789219BE9}|SprintReview0\\SprintReview0.csproj|solutionrelative:SprintReview0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C673D2-BE8D-4CB0-98E7-F6D93BA4D1D9}|SprintReview1\\SprintReview1.csproj|C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview1\\SprintReview1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2C673D2-BE8D-4CB0-98E7-F6D93BA4D1D9}|SprintReview1\\SprintReview1.csproj|solutionrelative:SprintReview1\\SprintReview1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +32,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview0\\Program.cs",
-              "RelativeDocumentMoniker": "SprintReview0\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview0\\Program.cs",
-              "RelativeToolTip": "SprintReview0\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview2\\Program.cs",
+              "RelativeDocumentMoniker": "SprintReview2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview2\\Program.cs",
+              "RelativeToolTip": "SprintReview2\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:22:28.044Z",
+              "WhenOpened": "2024-10-26T13:43:39.193Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview1\\Program.cs",
+              "RelativeDocumentMoniker": "SprintReview1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview1\\Program.cs",
+              "RelativeToolTip": "SprintReview1\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:53:19.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SprintReview1.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview1\\SprintReview1.csproj",
+              "RelativeDocumentMoniker": "SprintReview1\\SprintReview1.csproj",
+              "ToolTip": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview1\\SprintReview1.csproj",
+              "RelativeToolTip": "SprintReview1\\SprintReview1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T08:53:17.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview0\\Program.cs",
+              "RelativeDocumentMoniker": "SprintReview0\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview0\\Program.cs",
+              "RelativeToolTip": "SprintReview0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:22:28.044Z"
             }
           ]
         }
