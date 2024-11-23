@@ -30,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +44,7 @@
               "RelativeDocumentMoniker": "SprintReview3\\Program.cs",
               "ToolTip": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview3\\Program.cs",
               "RelativeToolTip": "SprintReview3\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAqwNIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T09:33:42.893Z",
               "EditorCaption": ""

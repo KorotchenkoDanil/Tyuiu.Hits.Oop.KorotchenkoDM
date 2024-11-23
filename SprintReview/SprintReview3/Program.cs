@@ -57,7 +57,7 @@ namespace SprintReview3
 
         public static bool operator !=(CPU cpu1, CPU cpu2)
         {
-            return cpu1 != cpu2;
+            return cpu1.Parameters != cpu2.Parameters;
         }
     }
 
@@ -198,15 +198,18 @@ namespace SprintReview3
     {
         static void Main(string[] args)
         {
-            CPU cpu = new CPU("cpu description", "cpu functions", 1000, "cpu parameters");
-            RAM ram = new RAM("ram description", "ram functions", 2000, "ram parameters");
-            GPU gpu = new GPU("gpu description", "gpu functions", 3000, "gpu parameters");
-            HDD hdd = new HDD("hdd description", "hdd functions", 4000, "hdd parameters");
-            cpu.GetInfo();
-            ram.GetInfo();
-            gpu.GetInfo();
-            hdd.GetInfo();
-            cpu.ToString();
+            CPU cpu1 = new CPU("cpu description", "cpu functions", 1000, "4 ядра");
+            CPU cpu2 = new CPU("cpu description", "cpu functions", 1000, "4 ядра");
+            CPU cpu3 = new CPU("cpu description", "cpu functions", 1000, "8 ядер");
+            //RAM ram = new RAM("ram description", "ram functions", 2000, "ram parameters");
+            //GPU gpu = new GPU("gpu description", "gpu functions", 3000, "gpu parameters");
+            //HDD hdd = new HDD("hdd description", "hdd functions", 4000, "hdd parameters");
+            Console.WriteLine(cpu1 == cpu2);
+            Console.WriteLine(cpu2 == cpu3);
+            //ram.GetInfo();
+            //gpu.GetInfo();
+            //hdd.GetInfo();
+            
             Console.ReadKey();
         }
     }
