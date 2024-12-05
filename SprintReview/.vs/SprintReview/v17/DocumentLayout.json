@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2C2A73D-AB8D-4B32-9422-DDBD0402920D}|SprintReview3\\SprintReview3.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\source\\repos\\tyuiu.hits.oop.korotchenkodm\\sprintreview\\sprintreview3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D8F7E5F-2F5C-4DBC-ACE1-26097AD240CB}|SprintReview4\\SprintReview4.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\source\\repos\\tyuiu.hits.oop.korotchenkodm\\sprintreview\\sprintreview4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8F7E5F-2F5C-4DBC-ACE1-26097AD240CB}|SprintReview4\\SprintReview4.csproj|solutionrelative:sprintreview4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C2A73D-AB8D-4B32-9422-DDBD0402920D}|SprintReview3\\SprintReview3.csproj|C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\sprintreview3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C2A73D-AB8D-4B32-9422-DDBD0402920D}|SprintReview3\\SprintReview3.csproj|solutionrelative:sprintreview3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,18 +40,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview4\\Program.cs",
+              "RelativeDocumentMoniker": "SprintReview4\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview4\\Program.cs",
+              "RelativeToolTip": "SprintReview4\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAowJUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:55:13.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview3\\Program.cs",
               "RelativeDocumentMoniker": "SprintReview3\\Program.cs",
               "ToolTip": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview3\\Program.cs",
               "RelativeToolTip": "SprintReview3\\Program.cs",
               "ViewState": "AgIAAMEAAAAAAAAAAAAqwNIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:33:42.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T09:33:42.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview2\\Program.cs",
               "RelativeDocumentMoniker": "SprintReview2\\Program.cs",
@@ -59,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview1\\Program.cs",
               "RelativeDocumentMoniker": "SprintReview1\\Program.cs",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SprintReview1.csproj",
               "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview1\\SprintReview1.csproj",
               "RelativeDocumentMoniker": "SprintReview1\\SprintReview1.csproj",
@@ -83,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0410\u041D\u0418\u041B\\source\\repos\\Tyuiu.Hits.Oop.KorotchenkoDM\\SprintReview\\SprintReview0\\Program.cs",
               "RelativeDocumentMoniker": "SprintReview0\\Program.cs",
